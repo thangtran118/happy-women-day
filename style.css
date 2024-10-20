@@ -38,6 +38,14 @@ body {
   top: 80px;
 }
 
+@media only screen and (max-width: 600px) {
+  .happy-women-day {
+    top: 40px;
+    font-size: 32px;
+    text-align: center;
+  }
+}
+
 .flowers {
   position: relative;
   transform: scale(0.9);
